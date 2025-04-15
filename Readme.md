@@ -65,8 +65,7 @@ This repository documents a 6-day intensive React sprint where multiple real-wor
   - React components + Router
   - `useState`, `useEffect`
 - 🖥️ Modular layout with reusable components
-- 🎨 Matched visual identity and structure closely  
-  🔗 **Live**: [https://skill-lab-learnings-dy4k.vercel.app/](https://skill-lab-learnings-dy4k.vercel.app/)
+- 🎨 Matched visual identity and structure closely
 
 ---
 
@@ -78,7 +77,7 @@ This repository documents a 6-day intensive React sprint where multiple real-wor
   - Form fields: Name, USN, Phone, Email, Age, Address, Gender
   - Insert data into Supabase table
   - Redirect to student details page
-- 🚀 Deployed on **Vercel**
+    -🔗 **Live**: [https://skill-lab-learnings-dy4k.vercel.app/](https://skill-lab-learnings-dy4k.vercel.app/)
 
 ---
 
@@ -107,7 +106,7 @@ This repository documents a 6-day intensive React sprint where multiple real-wor
 ## 🔗 Deployed Project Links
 
 - [Digital Resume – Day 1](https://disha-intro.vercel.app/)
-- [Sahyadri Website Clone – Day 5](https://skill-lab-learnings-dy4k.vercel.app/)
+- [Student Details form – Day 5](https://skill-lab-learnings-dy4k.vercel.app/)
 
 ---
 
