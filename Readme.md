@@ -1,6 +1,6 @@
-# 💻 6-Day React Dev Sprint
+# 💻 6-Day Next.js Workshop Sprint
 
-This repository documents a 6-day intensive React sprint where multiple real-world mini-projects were built using React, APIs, Supabase, and modern design tools.
+This repository documents a 6-day intensive Next.js/React sprint where multiple real-world mini-projects were built using React, APIs, Supabase, and modern design tools.
 
 ---
 
